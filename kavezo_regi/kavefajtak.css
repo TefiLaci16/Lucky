@@ -1,5 +1,5 @@
 body{
-    background-image: url(green.jpg);
+    background-image: url(banner.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -8,7 +8,6 @@ body{
 }
 div{
     margin: auto;
-    text-align: center;
     
 }
 
@@ -20,22 +19,50 @@ h2{
     font-family: Verdana;
 }
 table{
-    border: 3.5px solid black;
-    border-spacing: 2px;
     padding: 10px solid;
     text-align: bottom ;
     margin:auto;
+    background-color: blanchedalmond;
 
 }
 p{
-    text-align: center;
+text-align: left;
 }
 caption{
     font-size: 30px;
     color: black;
 }
 header{
-    text-align: center;
-}
+    background-color: darkolivegreen;
+    overflow: hidden;
+    font-family: Verdana;
 
+}
+header ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+header ul li{
+    float: left;
+}
+header ul li a:hover {
+    background-color: darkgreen;
+}
+header ul li a{
+    color: black;
+    padding: 14px 16px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+}
+.alul {
+    background-color: darkgreen;
+    margin:auto;
+    color: white;
+}
+.kozep{
+    background-color: blanchedalmond;
+    
+}
 

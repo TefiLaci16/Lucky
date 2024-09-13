@@ -26,5 +26,27 @@ p{
     text-align: center;
 
 }
+header{
+    background-color: darkolivegreen;
+    overflow: hidden;
+    font-family: Verdana;
 
-
+}
+header ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+header ul li{
+    float: left;
+}
+header ul li a:hover {
+    background-color: darkgreen;
+}
+header ul li a{
+    color: black;
+    padding: 14px 16px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+}
