@@ -1,0 +1,41 @@
+body{
+    background-image: url(banner.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: lightgreen;
+    
+}
+div{
+    margin: auto;
+    text-align: center;
+    
+}
+
+h1{
+    font-family: Verdana;
+    text-align: center;
+}
+h2{
+    font-family: Verdana;
+}
+table{
+    border: 3.5px solid black;
+    border-spacing: 2px;
+    padding: 10px solid;
+    text-align: bottom ;
+    margin:auto;
+
+}
+p{
+    text-align: center;
+}
+caption{
+    font-size: 30px;
+    color: black;
+}
+header{
+    text-align: center;
+}
+
+

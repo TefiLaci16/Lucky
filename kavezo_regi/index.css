@@ -1,0 +1,30 @@
+body{
+    background-color: lightgreen;
+    
+}
+div{
+    margin: auto;
+    text-align: center;
+    
+}
+
+h1{
+    font-family: Verdana;
+}
+h2{
+    font-family: Verdana;
+}
+table{
+    border: 5px solid black;
+    border-spacing: 2px;
+    padding: 10px solid;
+    text-align: center;
+    margin: auto;
+
+}
+p{
+    text-align: center;
+
+}
+
+
